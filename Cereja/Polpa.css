@@ -1,6 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&family=Pacifico&display=swap');
+
 :root{
      --cor-de-fundo: #610000;
-     --cereja-1: #f1666d;
+     --cereja-1: #ff9ea2;
      --branco: #FFFFFF;
-     --cereja-2-botoes: #9c0720;
+     --cereja-botoes: #f1666d;
+     --cereja-botoes-2: #dc143c;
+     --cereja-texto-fundo: #9c0720;
+}
+
+body{
+     background-color: var(--cor-de-fundo);
+     color: var(--branco);
+     font-family: 'Gabriela Pacifico', sans-serif;
 }
